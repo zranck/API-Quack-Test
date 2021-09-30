@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['test_random_duck_api.py'],
-             pathex=['/Users/ranck/Desktop/Zac Ranck API Automation'],
+             pathex=['C:\\Users\\MY7H1\\duck\\API-Quack-Test'],
              binaries=[],
              datas=[],
              hiddenimports=[],
